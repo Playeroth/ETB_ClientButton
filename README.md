@@ -18,7 +18,6 @@ this source is used in the mod "InsanityMod" for checking buttons across the map
 ![image](https://github.com/user-attachments/assets/117ad7a0-9295-4e68-91d7-3b603a6d9eb9)
 ----
 - "Is Comp Hidden" is mostly for debug purposes if you need to understand how it looks like.
-----
 
 # Behind the scenes
 It spawns a Latch object of the game. It checks whether or not the latch float value has changed, since the game has a value if its moving or not, so i found about that and now use it as a form of interaction check. 
