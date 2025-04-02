@@ -17,9 +17,16 @@ this source is used in the mod "InsanityMod" for checking buttons across the map
 - CanCheckAndInteract = A normal function, will check the interaction of this custom interactable.
 - NoCheckNorInteract = Wont check neither interact, nothing.
 - NoCheckButInteract = Wont check but players can interact, usefull to block players from opening doors or interacting with something if its not ready to.
-
 ----
-- "Is Comp Hidden" is mostly for debug purposes if you need to understand how it looks like.
+- "Is Comp Hidden" is mostly for debug purposes if you need to understand how it looks like.  
+
+## Events 
+![image](https://github.com/user-attachments/assets/a3a6d0d2-2404-41ed-bdeb-1b8ee11aa076)  
+You can set up Events upon creation. The Event above is called when interaction has executed.  
+
+![image](https://github.com/user-attachments/assets/6eabb202-eb46-4927-b0a9-0cddf639c4de)
+The Event above is called when component is destroyed, destroying also the Latch.
+
 
 # Behind the scenes
 It spawns a Latch object of the game. It checks whether or not the latch float value has changed. the game has a value if its moving or not, so i found about that and now use it as a form of interaction check that works for clients without the mod. 
