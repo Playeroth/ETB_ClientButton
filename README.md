@@ -5,7 +5,6 @@ this source is used in the mod "InsanityMod" for checking buttons across the map
 # How To Use
 ![image](https://github.com/user-attachments/assets/d1c4e7b6-9d32-41eb-b793-aa5f98668e73)
 
-----
 - "Transform Relative to Owner" is used to set up position, scale and rotation to properly hide the radius of the original interactable.
 ----
 - "ID" is used to identify which Interactable is available.  
