@@ -13,7 +13,11 @@ this source is used in the mod "InsanityMod" for checking buttons across the map
 ![image](https://github.com/user-attachments/assets/66eb054c-7860-44f1-9935-0679650787d1)
 ----
 - "Use Type" is used upon interaction and what condition it will be set.  
-![image](https://github.com/user-attachments/assets/117ad7a0-9295-4e68-91d7-3b603a6d9eb9)
+![image](https://github.com/user-attachments/assets/117ad7a0-9295-4e68-91d7-3b603a6d9eb9)  
+- CanCheckAndInteract = A normal function, will check the interaction of this custom interactable.
+- NoCheckNorInteract = Wont check neither interact, nothing.
+- NoCheckButInteract = Wont check but players can interact, usefull to block players from opening doors or interacting with something if its not ready to.
+
 ----
 - "Is Comp Hidden" is mostly for debug purposes if you need to understand how it looks like.
 
