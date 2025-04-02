@@ -1,6 +1,6 @@
 A reusable source for Mod Developers of ETB (Escape The Backrooms).This source uses an ingame features with custom functions that will work across the network and able to do easier things.
 
-this source is used in the mod "InsanityMod" for checking buttons across the map and then if conditions are met based on these interactions. 
+this source is used in the mod "InsanityMod". 
 
 # AIRandomFollow  
 ![image](https://github.com/user-attachments/assets/8ddccabb-fdde-4c5b-9399-285ca5505746)  
