@@ -1,6 +1,15 @@
-A reusable source for Mod Developers of ETB (Escape The Backrooms) that wants a button to check if clients interacted with something without the need of everyone using the mod. This mod uses an ingame object with custom functions that will work across the network and able to trigger other things by Developer choices. 
+A reusable source for Mod Developers of ETB (Escape The Backrooms).This source uses an ingame features with custom functions that will work across the network and able to do easier things.
 
 this source is used in the mod "InsanityMod" for checking buttons across the map and then if conditions are met based on these interactions. 
+
+# AIRandomFollow  
+![image](https://github.com/user-attachments/assets/8ddccabb-fdde-4c5b-9399-285ca5505746)  
+this source is less cleaned than CustomInteractable.
+-1 values are disabled. 
+OnChasePlayerObject - might not fully work as i remember having issues with it not properly being removed.
+ObjectToAttach - is used to attaching any object, such as Lights.
+
+## CustomInteractable
 
 # How To Use
 ![image](https://github.com/user-attachments/assets/d1c4e7b6-9d32-41eb-b793-aa5f98668e73)
