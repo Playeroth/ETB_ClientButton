@@ -27,6 +27,9 @@ You can set up Events upon creation. The Event above is called when interaction 
 ![image](https://github.com/user-attachments/assets/6eabb202-eb46-4927-b0a9-0cddf639c4de)  
 The Event above is called when component is destroyed, destroying also the Latch. It might be not as usefull as the interaction event.
 
+# Examples
+![image](https://github.com/user-attachments/assets/8de8c95d-9874-480c-bf62-134d3ef09c63)  
+this is an example that is used in "InsanityMod" that checks if all Levers is executed.
 
 # Behind the scenes
 It spawns a Latch object of the game. It checks whether or not the latch float value has changed. the game has a value if its moving or not, so i found about that and now use it as a form of interaction check that works for clients without the mod. 
