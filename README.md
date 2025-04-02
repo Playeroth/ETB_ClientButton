@@ -12,7 +12,7 @@ this source is used in the mod "InsanityMod" for checking buttons across the map
 - "ID" is used to identify which Interactable is available.  
 ----
 - "Start Type" is used for when the object is created and what condition it will receive.  
-![image](https://github.com/user-attachments/assets/44fff8c9-8910-474c-b989-2d8dced76304)
+![image](https://github.com/user-attachments/assets/66eb054c-7860-44f1-9935-0679650787d1)
 ----
 - "Use Type" is used upon interaction and what condition it will be set.  
 ![image](https://github.com/user-attachments/assets/1c130700-cd7d-4ce1-8b9c-04a09dbafbe4)
