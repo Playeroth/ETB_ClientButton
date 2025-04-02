@@ -24,8 +24,8 @@ this source is used in the mod "InsanityMod" for checking buttons across the map
 ![image](https://github.com/user-attachments/assets/a3a6d0d2-2404-41ed-bdeb-1b8ee11aa076)  
 You can set up Events upon creation. The Event above is called when interaction has executed.  
 
-![image](https://github.com/user-attachments/assets/6eabb202-eb46-4927-b0a9-0cddf639c4de)
-The Event above is called when component is destroyed, destroying also the Latch.
+![image](https://github.com/user-attachments/assets/6eabb202-eb46-4927-b0a9-0cddf639c4de)  
+The Event above is called when component is destroyed, destroying also the Latch. It might be not as usefull as the interaction event.
 
 
 # Behind the scenes
