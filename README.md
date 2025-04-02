@@ -4,10 +4,10 @@ this source is used in the mod "InsanityMod".
 
 # AIRandomFollow  
 ![image](https://github.com/user-attachments/assets/8ddccabb-fdde-4c5b-9399-285ca5505746)  
-this source is less cleaned than CustomInteractable.
--1 values are disabled. 
-OnChasePlayerObject - might not fully work as i remember having issues with it not properly being removed.
-ObjectToAttach - is used to attaching any object, such as Lights.
+this source is less cleaned than CustomInteractable.  
+-1 values are disabled.   
+OnChasePlayerObject - might not fully work as i remember having issues with it not properly being removed.  
+ObjectToAttach - is used to attaching any object, such as Lights.  
 
 # CustomInteractable
 ![image](https://github.com/user-attachments/assets/d1c4e7b6-9d32-41eb-b793-aa5f98668e73)
