@@ -15,7 +15,7 @@ this source is used in the mod "InsanityMod" for checking buttons across the map
 ![image](https://github.com/user-attachments/assets/66eb054c-7860-44f1-9935-0679650787d1)
 ----
 - "Use Type" is used upon interaction and what condition it will be set.  
-![image](https://github.com/user-attachments/assets/1c130700-cd7d-4ce1-8b9c-04a09dbafbe4)
+![image](https://github.com/user-attachments/assets/117ad7a0-9295-4e68-91d7-3b603a6d9eb9)
 ----
 - "Is Comp Hidden" is mostly for debug purposes if you need to understand how it looks like.
 ----
