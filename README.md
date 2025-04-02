@@ -19,6 +19,9 @@ this source is used in the mod "InsanityMod" for checking buttons across the map
 - NoCheckButInteract = Wont check but players can interact, usefull to block players from opening doors or interacting with something if its not ready to.
 ----
 - "Is Comp Hidden" is mostly for debug purposes if you need to understand how it looks like.  
+----
+![image](https://github.com/user-attachments/assets/1346b8dc-1757-4812-adc2-b1207f7eab9c)  
+Sets whether is enabled or not.
 
 ## Events 
 ![image](https://github.com/user-attachments/assets/a3a6d0d2-2404-41ed-bdeb-1b8ee11aa076)  
