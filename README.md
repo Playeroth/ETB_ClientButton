@@ -4,15 +4,18 @@ A reusable source for Mod Developers of ETB (Escape The Backrooms) that wants a 
 this source is used in the mod "InsanityMod" for checking buttons across the map and then if conditions are met based on these interactions. 
 
 # How To Use
-![image](https://github.com/user-attachments/assets/cb4040ec-3745-413b-91a9-e7c9136c6db8)
+![image](https://github.com/user-attachments/assets/d1c4e7b6-9d32-41eb-b793-aa5f98668e73)
+
 ----
-- "Actor Attached" is an actor that you may want to attach for localtransforms to work, such as attaching this Interactable into another ingame button but overwrite its interaction.  
+- "Transform Relative to Owner" is used to set up position, scale and rotation to properly hide the radius of the original interactable.
 ----
-- "ID" can be used to identify which Interactable is available.  
+- "ID" is used to identify which Interactable is available.  
 ----
-- "Is Enabled" can be toggled to OFF if you want players to interact but nothing happens, blocking further execution.  
+- "Start Type" is used for when the object is created and what condition it will receive.
+![image](https://github.com/user-attachments/assets/44fff8c9-8910-474c-b989-2d8dced76304)
 ----
-- "Is Use Once" can be toggled so only one use is considered, future interactions will be disconsidered and not block interaction.  
+- "Use Type" is used upon interaction and what condition it will be set.
+![image](https://github.com/user-attachments/assets/1c130700-cd7d-4ce1-8b9c-04a09dbafbe4)
 ----
-- "Visible Static Mesh" can be used to set one key one value for adding meshes and material, mostly for debug as setting Material wont work for Clients without the mod, setting mesh does work.  
+- "Is Comp Hidden" is mostly for debug purposes if you need to understand how it looks like.
 ----
