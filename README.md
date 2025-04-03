@@ -1,9 +1,10 @@
 A reusable source for Mod Developers of ETB (Escape The Backrooms).This source uses an ingame features with custom functions that will work across the network and able to do easier things.
 
 this source is used in the mod "InsanityMod". 
-# Component
+# Components
 Both sources is a component, "Add Component by Class" > BPC_CustomClientInteractable / BPC_AIRandomFollow.  
-## AIRandomFollow
+
+# AIRandomFollow
 "AIRandomFollow" Requires a Pawn, you can get this from the entity with a cast or if spawning an entity, use "Spawn AI From Class" instead.  
 ![image](https://github.com/user-attachments/assets/c1152e62-d061-4856-b984-19cff54d88eb)  
 
