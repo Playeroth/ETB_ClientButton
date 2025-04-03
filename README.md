@@ -5,10 +5,11 @@ this source is used in the mod "InsanityMod".
 Both sources is a component, "Add Component by Class" > BPC_CustomClientInteractable / BPC_AIRandomFollow.  
 
 # AIRandomFollow
-"AIRandomFollow" Requires a Pawn, you can get this from the entity with a cast or if spawning an entity, use "Spawn AI From Class" instead.  
+To spawn AI, use "Spawn AI From Class" Instead, it will make most Entities work than normal Actor spawn.
 ![image](https://github.com/user-attachments/assets/c1152e62-d061-4856-b984-19cff54d88eb)  
 
-![image](https://github.com/user-attachments/assets/8ddccabb-fdde-4c5b-9399-285ca5505746)  
+![image](https://github.com/user-attachments/assets/9944ea69-929f-436a-b6ee-59bcface264d)
+
 this source is less cleaned than CustomInteractable.  
 -1 values are disabled.   
 OnChasePlayerObject - might not fully work as i remember having issues with it not properly being removed.  
