@@ -1,4 +1,4 @@
-A reusable source for Mod Developers of ETB (Escape The Backrooms).This source uses an ingame features with custom functions that will work across the network and able to do easier things.
+A reusable source for Mod Developers of ETB (Escape The Backrooms). This source uses an ingame features with custom functions that will work across the network and able to do easier things.
 
 this source is used in the mod "InsanityMod". 
 # Components
