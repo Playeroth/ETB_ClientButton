@@ -9,13 +9,14 @@ To spawn AI, use "Spawn AI From Class" Instead, it will make most Entities work 
 ![image](https://github.com/user-attachments/assets/c1152e62-d061-4856-b984-19cff54d88eb)  
 
 ![image](https://github.com/user-attachments/assets/9944ea69-929f-436a-b6ee-59bcface264d)
-
+You want to add this component to an AI entity. Any Entity, Skinstealer, Bacteria, Dog, so on.
 this source is less cleaned than CustomInteractable.  
 -1 values are disabled.   
 OnChasePlayerObject - might not fully work as i remember having issues with it not properly being removed.  
 ObjectToAttach - is used to attaching any object to the entity, such as Lights.  
 
 # CustomInteractable
+You use this with another Interactable, such as lever, button, etc.
 ![image](https://github.com/user-attachments/assets/d1c4e7b6-9d32-41eb-b793-aa5f98668e73)
 
 - "Transform Relative to Owner" is used to set up position, scale and rotation to properly hide the radius of the original interactable.
