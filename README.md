@@ -43,7 +43,7 @@ You can set up Events upon creation. The Event above is called when interaction 
 
 ![image](https://github.com/user-attachments/assets/6eabb202-eb46-4927-b0a9-0cddf639c4de)  
 The Event above is called when component is destroyed, destroying also the Latch. It might be not as usefull as the interaction event.  
-this event might not be useful at all. "This self" is the component, but since its destroyed it will be null. I made this months ago and not very sure what was the purpose but its not removed because it can have some function.
+this event might not be useful at all. "This self" is the component, but since its destroyed, i probably used to remove the reference in a Map.
 
 ## Examples
 ![image](https://github.com/user-attachments/assets/8de8c95d-9874-480c-bf62-134d3ef09c63)  
